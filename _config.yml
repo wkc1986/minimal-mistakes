@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Scientist, musician, etc."
   location         : "NYC"
-  email            : "williamkurtischang@gmail.com"
+  email            : "williamkurtischang at gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -241,7 +241,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: false
       related: true
