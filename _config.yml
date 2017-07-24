@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : ":wkc"
-title_separator          : "-"
+title_separator          : "<"
 name                     : "William K Chang"
 description              : "data/theory/sound"
 url                      : "https://wkc1986.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "w_k_chang"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -243,5 +243,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false # fuck your social media
       related: true
