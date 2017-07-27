@@ -4,7 +4,7 @@ title: "Research (scientific)"
 permalink: /research/
 ---
 
-I am interested in studying microbial ecosystems are an especially rich, fast-moving, and well-surveyed instance of a complex system.
+I am interested in microbial ecosystems as an especially rich, fast-moving, and well-surveyed instance of a complex system.
 My perspective typically draws from information theory, network theory, and statistical physics.
 
 You can find my CV [here](https://github.com/wkc1986/wkc-cv/blob/master/wkc-cv.pdf).
