@@ -5,7 +5,7 @@ author_profile: true
 
 Hi, I'm Will.
 I'm a postdoctoral scientist in New York City.
-My current work is in the field of microbial ecology and metagenomics.
+I currently work in the field of microbial ecology and metagenomics.
 
 My interests include:
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research (scientific)"
+title: "Research"
 permalink: /research/
 ---
 

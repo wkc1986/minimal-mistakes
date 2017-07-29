@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : ":wkc"
 title_separator          : "-"
 name                     : "William K Chang"
-description              : "data/theory/sound"
+description              : "microbial ecology, evolution, metagenomics, information theory, glitch, ambient, electronic, noise, systems biology, complex systems"
 url                      : "https://wkc1986.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "William K Chang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Scientist, musician, etc."
+  bio              : "Scientist/musician"
   location         : "NYC"
   email            : "williamkurtischang at gmail.com"
   uri              :
