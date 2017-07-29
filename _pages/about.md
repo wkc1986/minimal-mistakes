@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About"
+author_profile: true
 permalink: /about/
 ---
 
@@ -14,5 +15,6 @@ My scientific interests include:
 
 * the convergence of data and human-intuitive theory in the understanding thereof.
 
-I typically draw inspiration from from information theory, network theory, and statistical physics.
+I typically draw inspiration from information theory, network theory, and statistical physics, among other things.
 
+[These](/questions/) are some questions I sometimes think about, that may or may not ever be answered.

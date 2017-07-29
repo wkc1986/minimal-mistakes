@@ -27,6 +27,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 $global-font-family					: $serif;
 $header-font-family 				: $sans-serif;
 
+$doc-font-size 							: 10; /* this does nothing somehow */
+
 /* Variables */
 @import "minimal-mistakes/variables";
 
