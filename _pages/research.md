@@ -4,11 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-I am interested in microbial ecosystems as an especially rich, fast-moving, and well-surveyed instance of a complex system.
-My perspective typically draws from information theory, network theory, and statistical physics.
-
-You can find my CV [here](https://github.com/wkc1986/wkc-cv/blob/master/wkc-cv.pdf).
-
 For a current list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=RCTd8bcAAAAJ&hl=en) page.
 
 ## Ongoing projects

@@ -47,18 +47,6 @@ $type-size-8                : 0.625em !default;  // ~10px
    Colors
    ========================================================================== */
 
-/* some colors and palettes I nabbed from colourlovers.com -wkc1986 */
-/* Ghost of a ghost http://www.colourlovers.com/palette/589178/Ghost_of_a_Ghost */
-$gag-sudden-shiver					: #998FB8;
-$gag-wandering-soul					: #C1B3D4;
-$gag-ghost-of-a-ghost				: #E4DDFA;
-$gag-moon-slivers						: #EFE5FA;
-$gag-invisible-presence			: #FEF4FF;
-
-$cias												: #5F63D9;
-$noir-comme-lamour					: #111625;
-
-
 $gray                       : #7a8288 !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
@@ -69,12 +57,10 @@ $body-color                 : #fff !default;
 $background-color           : #fff !default;
 $code-background-color      : #fafafa !default;
 $code-background-color-dark : $light-gray !default;
-/*$text-color                 : $dark-gray !default;*/
-$text-color                 : $noir-comme-lamour;
+$text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
 
-/*$primary-color              : #7a8288 !default;*/
-$primary-color              : $noir-comme-lamour;
+$primary-color              : #7a8288 !default;
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
@@ -105,8 +91,7 @@ $xing-color                 : #006567 !default;
 
 
 /* links */
-/*$link-color                 : $info-color !default;*/
-$link-color                 : $cias;
+$link-color                 : $info-color !default;
 $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
 $masthead-link-color        : $primary-color !default;

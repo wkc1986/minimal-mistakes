@@ -4,6 +4,29 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt)
 */
 
+/* some colors and palettes I nabbed from colourlovers.com -wkc1986 */
+/* Ghost of a ghost http://www.colourlovers.com/palette/589178/Ghost_of_a_Ghost */
+$gag-sudden-shiver					: #998FB8;
+$gag-wandering-soul					: #C1B3D4;
+$gag-ghost-of-a-ghost				: #E4DDFA;
+$gag-moon-slivers						: #EFE5FA;
+$gag-invisible-presence			: #FEF4FF;
+
+$cias												: #5F63D9;
+$noir-comme-lamour					: #111625;
+
+$text-color                 : $noir-comme-lamour;
+$primary-color              : $noir-comme-lamour;
+$link-color                 : $cias;
+
+/* font override */
+/* copied serif variable from _variables.scss so load order works */
+$serif											: "Calisto MT", Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco",  "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$global-font-family					: $serif;
+$header-font-family 				: $sans-serif;
+
 /* Variables */
 @import "minimal-mistakes/variables";
 
